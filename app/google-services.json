@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "318484008214",
+    "firebase_url": "https://academic-activity-manager.firebaseio.com",
+    "project_id": "academic-activity-manager",
+    "storage_bucket": "academic-activity-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318484008214:android:5d0ee36c74996cfd",
+        "android_client_info": {
+          "package_name": "com.arik.AcademicActivityManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318484008214-e5k7tb9td8ljbkvl5f457fakr8sfahf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arik.AcademicActivityManager",
+            "certificate_hash": "e96dcaf80afc72da1c661676a536160099e99995"
+          }
+        },
+        {
+          "client_id": "318484008214-vet7eust6s2qd5nmoqiidvop44du11qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwGSfq3jj83JCRbO23CXtd9L2lHjHDQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318484008214-vet7eust6s2qd5nmoqiidvop44du11qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318484008214:android:48702e2ebfe3a386",
+        "android_client_info": {
+          "package_name": "com.example.arik.tokenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318484008214-vet7eust6s2qd5nmoqiidvop44du11qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwGSfq3jj83JCRbO23CXtd9L2lHjHDQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318484008214:android:d30eee972209ff96",
+        "android_client_info": {
+          "package_name": "com.tonikamitv.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318484008214-40kvuki7e4vjmmcgftek5mhl7cj854vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonikamitv.loginregister",
+            "certificate_hash": "e96dcaf80afc72da1c661676a536160099e99995"
+          }
+        },
+        {
+          "client_id": "318484008214-vet7eust6s2qd5nmoqiidvop44du11qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwGSfq3jj83JCRbO23CXtd9L2lHjHDQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318484008214-vet7eust6s2qd5nmoqiidvop44du11qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
